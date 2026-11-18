@@ -1,0 +1,7 @@
+customer_id,customer_name,city,recency_days,frequency,monetary_value,rfm_total,segment
+6,"Ananya Rao",Bengaluru,6,1,5400.00,7,"Loyal Customers"
+7,"Karthik Menon",Kochi,69,1,14850.00,3,At-Risk
+5,"Vikram Joshi",Mumbai,112,1,35880.00,4,At-Risk
+4,"Sneha Reddy",Hyderabad,57,2,89250.00,6,"Potential Loyalist"
+1,"Aarav Sharma",Hyderabad,15,4,90450.00,10,Champions
+2,"Priya Nair",Bengaluru,33,3,96360.00,9,"Loyal Customers"
